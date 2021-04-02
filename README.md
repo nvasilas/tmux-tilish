@@ -113,7 +113,7 @@ while a "pane" is what `i3wm` would call a "window" and `vim` would call a "spli
 | <kbd>Alt</kbd> + <kbd>v</kbd> | Switch to layout: vsplit then split |
 | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>v</kbd> | Switch to layout: only vsplit |
 | <kbd>Alt</kbd> + <kbd>t</kbd> | Switch to layout: fully tiled |
-| <kbd>Alt</kbd> + <kbd>f</kbd> | Switch to layout: fullscreen (zoom) |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>f</kbd> | Switch to layout: fullscreen (zoom) |
 | <kbd>Alt</kbd> + <kbd>r</kbd> | Refresh current layout |
 | <kbd>Alt</kbd> + <kbd>n</kbd> | Name current workspace |
 | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>q</kbd> | Quit (close) pane |

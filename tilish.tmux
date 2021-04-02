@@ -145,7 +145,7 @@ bind_layout "${mod}s" 'main-horizontal'
 bind_layout "${mod}S" 'even-vertical'
 bind_layout "${mod}v" 'main-vertical'
 bind_layout "${mod}V" 'even-horizontal'
-bind_layout "${mod}f" 'fullscreen'
+bind_layout "${mod}F" 'fullscreen'
 bind_layout "${mod}t" 'tiled'
 
 # Refresh the current layout (e.g. after deleting a pane).
